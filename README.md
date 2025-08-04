@@ -68,11 +68,7 @@ alx-movie-app/
 
    ```bash
    git clone <repository-url>
-<<<<<<< HEAD
-   cd alx-movie-app
-=======
    cd alx-project-0x14/alx-movie-app
->>>>>>> 756ee5e47f352b20a4d11b1d1bb6a8b221158e91
    ```
 
 1. **Install dependencies:**
