@@ -31,7 +31,10 @@ alx-movie-app/
 │   │   ├── Loading.tsx
 │   │   └── MovieCard.tsx
 │   └── layouts/
+<<<<<<< HEAD
 │       ├── Button.tsx
+=======
+>>>>>>> 756ee5e47f352b20a4d11b1d1bb6a8b221158e91
 │       ├── Footer.tsx
 │       ├── Header.tsx
 │       └── Layout.tsx
@@ -69,7 +72,11 @@ alx-movie-app/
 
    ```bash
    git clone <repository-url>
+<<<<<<< HEAD
    cd alx-movie-app
+=======
+   cd alx-project-0x14/alx-movie-app
+>>>>>>> 756ee5e47f352b20a4d11b1d1bb6a8b221158e91
    ```
 
 2. **Install dependencies:**
